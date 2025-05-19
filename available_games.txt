@@ -1,0 +1,5 @@
+Game1, 20
+Game2, 50
+Game3, 120
+Game4, 90
+Game5, 1000 
